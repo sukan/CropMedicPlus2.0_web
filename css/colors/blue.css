@@ -41,6 +41,7 @@ a:hover{
 .navbar-expand-md .navbar-nav .nav-link:focus, .navbar-expand-md .navbar-nav .nav-link:hover, .navbar-expand-md .navbar-nav .nav-link:hover:before{
 	color: #1AB7D8;
 }
+
 .navbar-expand-md .navbar-nav .nav-link:before{
 	background: #1AB7D8;
 }

@@ -6,6 +6,7 @@
  *  Made by Ilya Makarov
  *  Under MIT License
  */
+ 
 !(function(root, factory) {
   if (typeof define === 'function' && define.amd) {
     define(['jquery'], factory);

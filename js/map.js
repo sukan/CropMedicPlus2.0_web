@@ -1,4 +1,3 @@
-
 jQuery(document).ready(function($) {
 
 'use strict';
@@ -222,4 +221,5 @@ jQuery(document).ready(function($) {
 
   	//insert the zoom div on the top left of the map
   	map.controls[google.maps.ControlPosition.LEFT_TOP].push(zoomControlDiv);
+	
 });

@@ -42,6 +42,7 @@
       this.scrolled = true;
       this.config = this.util().extend(options, this.defaults);
     }
+	
 
     WOW.prototype.init = function() {
       var _ref;

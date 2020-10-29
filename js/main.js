@@ -32,6 +32,7 @@
       itemsMobile : [479,1],
     });
 
+
   /* Testimonials Carousel 
   ========================================================*/
     var owl = $("#testimonials");

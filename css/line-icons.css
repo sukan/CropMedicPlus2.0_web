@@ -9,6 +9,7 @@
   font-style: normal;
 }
 
+
 [class^="lni-"], [class*=" lni-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'LineIcons' !important;
@@ -23,6 +24,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 
 .lni-add-files:before {
   content: "\e900";

@@ -15,4 +15,5 @@ var timelineSwiper = new Swiper ('.timeline .swiper-container', {
       direction: 'horizontal',
     }
   }
-});
+}
+);

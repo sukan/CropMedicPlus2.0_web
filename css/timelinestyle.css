@@ -197,6 +197,7 @@
     font-size: 46px;
     margin: 0;
   }
+  
   .timeline .swiper-pagination {
     display: flex;
   }
@@ -223,6 +224,7 @@
             transform: rotate(90deg) translate(3px, 10px);
   }
 }
+
 @media screen and (min-width: 1024px) {
   .timeline .swiper-slide::after {
     right: -20%;

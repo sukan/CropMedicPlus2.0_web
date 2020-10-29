@@ -7,12 +7,15 @@
 .menu-wrap a:focus{
 	color: #F97794;
 }
+
 .menu-wrap .navbar-nav li .active{
 	color: #F97794; 
 }
+
 .menu-wrap .navbar-nav li .active:before{
 	width: 20px;
 }
+
 .content-wrap {
 	overflow-y: scroll;
 	-webkit-overflow-scrolling: touch;
