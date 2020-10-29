@@ -33,7 +33,7 @@ soil analysis in an agriculture researcher verified system.
 ## Individual Objectives of Research:
 
 1. IT17110808 - M.Sukanya
-    -- Accurate identification of nutrition deficiency (amongst N, P and K) (The specific objective of this component is to identify the nutrient deficiency in a plant with speed and accuracy using image processing technique and CNN)
+    - Accurate identification of nutrition deficiency (amongst N, P and K) (The specific objective of this component is to identify the nutrient deficiency in a plant with speed and accuracy using image processing technique and CNN)
 
 
 2. IT17109840 - L.H. Rajaratne
