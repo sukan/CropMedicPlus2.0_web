@@ -33,19 +33,19 @@ soil analysis in an agriculture researcher verified system.
 ## Individual Objectives of Research:
 
 1. IT17110808 - M.Sukanya
-     Accurate identification of nutrition deficiency (amongst N, P and K) (The specific objective of this component is to identify the nutrient deficiency in a plant with speed and accuracy using image processing technique and CNN)
+     - Accurate identification of nutrition deficiency (amongst N, P and K) (The specific objective of this component is to identify the nutrient deficiency in a plant with speed and accuracy using image processing technique and CNN)
 
 
 2. IT17109840 - L.H. Rajaratne
-     Identification of the degree of nutrition deficiency and recommendation of suitable remedy (The primary objective of this component is to identify the degree of the disorder. Secondly, this component aims in using the results obtained from component 3, to recommend the suitable remedy in terms of the application of chemical fertilizer etc.)
+     - Identification of the degree of nutrition deficiency and recommendation of suitable remedy (The primary objective of this component is to identify the degree of the disorder. Secondly, this component aims in using the results obtained from component 3, to recommend the suitable remedy in terms of the application of chemical fertilizer etc.)
 
 
 3. IT15070418 - K.T. Ramasinghe
-     Soil analysis using IoT to provide accurate degree of nutrition deficiency in soil and recommendation (The main expectation of this component is to develop a fully functionally IOT device to measure Nutrient levels (NPK),Organic Matters, EC Conductivity, pH level of selected soil crop and creating inputs for Machine learning algorithm which is created by member 2)
+     - Soil analysis using IoT to provide accurate degree of nutrition deficiency in soil and recommendation (The main expectation of this component is to develop a fully functionally IOT device to measure Nutrient levels (NPK),Organic Matters, EC Conductivity, pH level of selected soil crop and creating inputs for Machine learning algorithm which is created by member 2)
 
 
 4. IT17354516 - B.I Sariffodeen
-     Implement a secure and distributed platform for identifying best commercial product for deficiency based on diagnosis (The primary objective of this component is to identify the most suitable methodology to implement a distributed platform to provide farmer – vendor – agricultural researcher engagement while over coming information asymmetry)
+     - mplement a secure and distributed platform for identifying best commercial product for deficiency based on diagnosis (The primary objective of this component is to identify the most suitable methodology to implement a distributed platform to provide farmer – vendor – agricultural researcher engagement while over coming information asymmetry)
 
 
 ## Main Research Question:
